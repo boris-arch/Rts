@@ -1,0 +1,8 @@
+{
+  "name": "Siege & Destroy: Commander's Blood",
+  "description": "1v1 Action-RTS & Tug-of-War Brawler with mobile twin-stick touch controls, tactical squad spawning, Soul Altar objectives, and Execution Berserk Frenzy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
